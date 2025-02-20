@@ -9,8 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@next/eslint-plugin-next": "^15.1.7",
     "axios": "^1.7.9",
     "cheerio": "^1.0.0",
+    "critters": "^0.0.25",
+    "eslint-plugin-react-hooks": "^5.1.0",
     "https-proxy-agent": "^7.0.6",
     "next": "15.1.7",
     "node-fetch": "^3.3.2",
